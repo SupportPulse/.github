@@ -1,4 +1,4 @@
-# Welcome to [Your Company Name]'s GitHub Organization
+# Welcome to AjmalTech's GitHub Organization
 
 ![Logo](https://github.com/SupportPulse/.github/blob/main/profile/logo.png)
 
