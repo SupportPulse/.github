@@ -1,6 +1,6 @@
 # Welcome to AjmalTech's GitHub Organization
 
-![Logo](https://github.com/SupportPulse/.github/blob/main/profile/logo.png)
+<img src="https://github.com/SupportPulse/.github/blob/main/profile/logo.png" alt="Logo" width="200" />
 
 ---
 
